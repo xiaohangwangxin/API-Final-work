@@ -94,6 +94,24 @@
 
 此页为返回信息页面，时软件根据用户拍摄照片或者上传照片后，运用菜品识别api进行图像识别，图像质量检测api，以及图像效果增强api进行图像识别后返回的信息返回页面。此页面会将美食的基本信息展现出来，若用户想来了解更多，可点击了解更多链接，进行更多信息的查看
 
+* 6.返回的失败信息页面
+
+![返回的失败信息页面](https://upload-images.jianshu.io/upload_images/9502831-a4130b05de6aedc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+此页为用户在拍摄照片或者上传照片后，进入到信息返回页面。若软件无法识别出用户上传图片中的美食信息，将会弹出以上页面，用户可点击重新搜搜按钮再次搜索
+
+* 7.历史信息页面
+
+![历史信息页面](https://upload-images.jianshu.io/upload_images/9502831-1db2e5fee35538bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+此页为历史信息搜索页面是用户的过往搜索信息的保留页面，用户进入页面可再次查看美食信息
+
+
+
+
+
+
+
 
 
 
