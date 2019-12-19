@@ -60,5 +60,67 @@
 [产品链接]( http://nfunm083.gitee.io/api-final-app)
 ## 原型下载链接
 [产品下载]( https://github.com/xiaohangwangxin/API-Final-work/blob/master/app%E5%8E%9F%E5%9E%8B.rp)
+## 产品功能介绍
+* 1.启动页介绍
+
+![启动页](https://upload-images.jianshu.io/upload_images/9502831-9348fa67b6dd5d10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+此页为打开搜搜APP时的启动页，用户第一次使用软件时将出现下方的进入按钮，第二次使用app时将不会再出现，而是自动跳转进入软件
+
+* 2.首页介绍
+
+![首页](https://upload-images.jianshu.io/upload_images/9502831-39ee84c0fab0bfe4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+此页为进入app后出现的页面，在页面中可以打开相机功能进行图片拍摄搜索美食，也可以通过上传图片搜索美食。还可以通软件的搜索功能直接进行美食的信息搜索，页面下方的搜索历史是用户过往使用搜搜进行美食搜索的记录。右侧为用户的个人信息以及设置页面跳转按钮
+
+* 3.拍照页面
+
+![拍照](https://upload-images.jianshu.io/upload_images/9502831-5749ab0a2f1c52fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+此页为进入拍照页面，用户点击拍摄按钮进行拍摄，也可通过相机镜头反转按钮切换相机镜头。
+***软件在收到用户拍摄的照片后，将使用菜品识别api进行图像识别，为保障识别质量，还将运用图像质量检测api，以及图像效果增强api增强图片效果。提高识别精度***
+
+* 4.相册页面
+
+![相册页面](https://upload-images.jianshu.io/upload_images/9502831-9be89544a9315d19.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+此页为相册页面，用户可选中想要进行搜索的美食图片，然后点击下方的搜索按钮进行搜索。***软件在收到用户拍摄的照片后，将使用菜品识别api进行图像识别，为保障识别质量，还将运用图像质量检测api，以及图像效果增强api增强图片效果。提高识别精度***
+
+* 5.返回信息页面
+
+![返回信息页面](https://upload-images.jianshu.io/upload_images/9502831-736ae5183e750265.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+此页为返回信息页面，时软件根据用户拍摄照片或者上传照片后，运用菜品识别api进行图像识别，图像质量检测api，以及图像效果增强api进行图像识别后返回的信息返回页面。此页面会将美食的基本信息展现出来，若用户想来了解更多，可点击了解更多链接，进行更多信息的查看
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
