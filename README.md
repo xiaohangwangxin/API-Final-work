@@ -120,9 +120,11 @@
 ![成功识别](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E8%8F%9C%E5%93%81%E8%AF%86%E5%88%AB.png)
 
 
-* 图像对比度增强API：增强图片效果
+* 图像对比度增强API：增强图片效果  [查看代码详情](https://github.com/xiaohangwangxin/API-Final-work/blob/master/Untitled1.ipynb)
 
 **识别结果代码**
+
+![识别效果](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E8%8F%9C%E5%93%81%E8%AF%86%E5%88%AB.png)
 
 
 
