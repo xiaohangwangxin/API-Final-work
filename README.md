@@ -131,7 +131,10 @@
 
 ![识别效果](https://github.com/xiaohangwangxin/API-Final-work/blob/master/c.png)
 
-* 美食图片识别API：检测图片是否为美食   
+* 美食图片识别API：检测图片是否为美食
+
+![识别效果](https://github.com/xiaohangwangxin/API-Final-work/blob/master/41fefd21b38024fadd32cfc4c45f731.png)
+   
 
 
 **识别效果展示**
