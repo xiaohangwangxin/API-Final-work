@@ -76,11 +76,19 @@
 
 此页为打开搜搜APP时的启动页，用户第一次使用软件时将出现下方的进入按钮，第二次使用app时将不会再出现，而是自动跳转进入软件
 
+**跳转说明**
+
+![启动页](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E5%90%AF%E5%8A%A8%E9%A1%B5%E8%B7%B3%E8%BD%AC.png)
+
 ### 2.**首页介绍**
 
 ![首页](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E9%A6%96%E9%A1%B5.png)
 
 此页为进入app后出现的页面，在页面中可以打开相机功能进行图片拍摄搜索美食，也可以通过上传图片搜索美食。还可以通软件的搜索功能直接进行美食的信息搜索，页面下方的搜索历史是用户过往使用搜搜进行美食搜索的记录。右侧为用户的个人信息以及设置页面跳转按钮
+
+**跳转说明**
+
+![首页](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E9%A6%96%E9%A1%B5%E8%B7%B3%E8%BD%AC.png)
 
 ### 3.**拍照页面**
 
@@ -89,12 +97,22 @@
 此页为进入拍照页面，用户点击拍摄按钮进行拍摄，也可通过相机镜头反转按钮切换相机镜头。
 ***软件在收到用户拍摄的照片后，将使用菜品识别api进行图像识别，为保障识别质量，还将运用图像对比度增强api增强图片效果。提高识别精度***
 
+**跳转说明**
+
+![拍照](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E6%8B%8D%E6%91%84%E8%B7%B3%E8%BD%AC.png)
+
+
+
 ### 4.**相册页面**
 
 ![相册页面](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E7%9B%B8%E5%86%8C%E9%A1%B5%E9%9D%A2.png)
 
 
 此页为相册页面，用户可选中想要进行搜索的美食图片，然后点击下方的搜索按钮进行搜索。***软件在收到用户拍摄的照片后，将使用菜品识别api进行图像识别，为保障识别质量，还将运用图像对比度增强api增强图片效果。提高识别精度***
+
+**跳转说明**
+
+![相册页面](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E7%9B%B8%E5%86%8C%E8%B7%B3%E8%BD%AC.png)
 
 ### 5.**返回信息页面**
 
@@ -113,6 +131,10 @@
 ![历史信息页面](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E5%8E%86%E5%8F%B2%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2.png)
 
 此页为历史信息搜索页面是用户的过往搜索信息的保留页面，用户进入页面可再次查看美食信息
+
+**跳转说明**
+
+![历史信息页面](https://github.com/xiaohangwangxin/API-Final-work/blob/master/%E5%8E%86%E5%8F%B2%E4%BF%A1%E6%81%AF%E8%B7%B3%E8%BD%AC.png)
 
 # 产品机器学习之API的输出入展示
 
